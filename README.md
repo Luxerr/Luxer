@@ -5,7 +5,8 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/262310294749970433?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/262310294749970433)
+[![Discord Presence](https://lanyard.cnrad.dev/api/262310294749970433)](https://discord.com/users/262310294749970433)
+
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
