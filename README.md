@@ -1,2 +1,2 @@
 # Hi there , I'm Luxer 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luxerr)](https://github.com/Luxerr/github-readme-stats)
