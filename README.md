@@ -1,11 +1,10 @@
 # Hi there , I'm Luxer 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/262310294749970433?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/262310294749970433)
+
 ![version :17.10.2021](https://img.shields.io/badge/version-17.10.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Luxerr&color=red)&nbsp;
 [![GitHub Luxerr](https://img.shields.io/github/followers/Luxerr?label=follow&style=social)](https://github.com/Luxerr)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/262310294749970433?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/262310294749970433)
 
 
 ## Langauges I Know:
